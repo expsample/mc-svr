@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2018-01-07 15:33:22 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2018-01-01 18:17:04 -0800"
@@ -44,6 +50,12 @@
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2017-12-31 18:06:25 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2018-01-07 15:36:49 -0800"
     },
     "done": true
   },
@@ -167,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2018-01-07 14:00:41 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2017-12-31 18:06:25 -0800"
@@ -176,6 +194,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2017-12-31 17:46:08 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2018-01-07 15:36:49 -0800"
     },
     "done": true
   },
@@ -253,6 +277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2018-01-07 13:40:16 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2017-12-31 18:53:02 -0800"
@@ -262,6 +292,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2017-12-31 18:22:24 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2018-01-07 14:05:46 -0800"
     },
     "done": true
   },
@@ -313,6 +349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2018-01-07 14:00:41 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2017-12-31 18:13:19 -0800"
@@ -355,15 +397,33 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2018-01-07 14:25:55 -0800"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2017-12-31 18:53:02 -0800"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2018-01-07 13:40:09 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2017-12-31 18:53:02 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2018-01-07 15:33:22 -0800"
     },
     "done": true
   },
@@ -386,6 +446,12 @@
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_planks": "2017-12-31 18:23:49 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2018-01-07 13:16:51 -0800"
     },
     "done": true
   },
@@ -434,6 +500,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2017-12-31 18:09:17 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2018-01-07 15:33:22 -0800"
     },
     "done": true
   },
@@ -524,6 +596,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2017-12-31 18:12:35 -0800",
+      "skeleton": "2018-01-07 13:34:59 -0800",
       "zombie": "2017-12-31 18:15:41 -0800",
       "spider": "2017-12-31 17:55:47 -0800"
     },
@@ -556,6 +629,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2017-12-31 18:23:49 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2018-01-07 13:40:16 -0800"
     },
     "done": true
   },
