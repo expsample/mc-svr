@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2018-01-14 15:47:18 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2017-12-31 17:43:55 -0800"
@@ -65,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2018-01-14 16:01:15 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2018-01-07 15:35:25 -0800"
@@ -128,6 +140,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2017-12-31 18:02:23 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2018-01-14 16:01:09 -0800"
     },
     "done": true
   },
@@ -287,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2018-01-14 14:28:12 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2017-12-31 18:04:40 -0800"
@@ -368,6 +392,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2017-12-31 19:09:25 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2018-01-14 15:47:18 -0800"
     },
     "done": true
   },
@@ -467,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2018-01-14 16:01:15 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2017-12-31 17:47:45 -0800"
@@ -494,6 +530,18 @@
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-01-01 19:00:41 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2018-01-14 15:47:18 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2018-01-14 15:47:18 -0800"
     },
     "done": true
   },
@@ -701,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2018-01-14 14:29:49 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2017-12-31 18:53:02 -0800"
@@ -811,7 +865,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "zombie": "2017-12-31 18:17:25 -0800"
+      "skeleton": "2018-01-14 14:41:19 -0800",
+      "zombie": "2017-12-31 18:17:25 -0800",
+      "spider": "2018-01-14 14:41:30 -0800"
     },
     "done": false
   },
