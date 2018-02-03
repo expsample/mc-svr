@@ -1,40 +1,21 @@
-[21:24:53] [Server thread/INFO]: Loading properties
-[21:24:53] [Server thread/INFO]: Default game type: SURVIVAL
-[21:24:53] [Server thread/INFO]: Generating keypair
-[21:24:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:24:53] [Server thread/INFO]: Using default channel type
-[21:24:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:24:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:24:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:24:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:24:53] [Server thread/INFO]: Preparing level "world"
-[21:24:54] [Server thread/INFO]: Loaded 488 advancements
-[21:24:54] [Server thread/INFO]: Preparing start region for level 0
-[21:24:54] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID e1a389ef-5f59-456e-932e-6c664759aab0
-[21:24:55] [Server thread/INFO]: Done (1.225s)! For help, type "help" or "?"
-[21:25:25] [Server thread/INFO]: expsample[/192.168.0.9:3541] logged in with entity id 528 at (34.32805454793944, 63.0, 274.22083686166627)
-[21:25:25] [Server thread/INFO]: expsample joined the game
-[21:39:46] [Server thread/INFO]: expsample has made the advancement [Isn't It Iron Pick]
-[21:50:47] [Server thread/INFO]: expsample was blown up by Creeper
-[21:51:27] [Server thread/INFO]: expsample was shot by Skeleton
-[21:52:43] [Server thread/INFO]: expsample was slain by Zombie
-[21:53:18] [Server thread/INFO]: expsample was slain by Zombie Villager
-[21:54:09] [Server thread/INFO]: expsample was shot by Skeleton
-[21:54:51] [Server thread/INFO]: expsample was slain by Zombie Villager
-[21:55:23] [Server thread/INFO]: expsample was slain by Zombie Villager
-[21:55:59] [Server thread/INFO]: expsample was slain by Zombie
-[22:01:39] [Server thread/INFO]: expsample fell from a high place
-[22:16:23] [Server thread/INFO]: expsample was shot by Skeleton
-[22:17:11] [Server thread/INFO]: expsample was slain by Zombie
-[22:17:46] [Server thread/INFO]: expsample fell from a high place
-[22:19:54] [Server thread/INFO]: expsample was slain by Zombie
-[22:32:26] [Server thread/INFO]: expsample burned to death
-[22:39:13] [Server thread/INFO]: expsample was slain by Zombie
-[22:49:12] [Server thread/INFO]: expsample was shot by Skeleton
-[22:54:53] [Server thread/INFO]: expsample was slain by Wolf
-[23:00:32] [Server thread/INFO]: expsample lost connection: Disconnected
-[23:00:32] [Server thread/INFO]: expsample left the game
-[23:00:36] [Server Shutdown Thread/INFO]: Stopping server
-[23:00:36] [Server Shutdown Thread/INFO]: Saving players
-[23:00:36] [Server Shutdown Thread/INFO]: Saving worlds
-[23:00:36] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[13:57:10] [Server thread/INFO]: Loading properties
+[13:57:10] [Server thread/INFO]: Default game type: SURVIVAL
+[13:57:10] [Server thread/INFO]: Generating keypair
+[13:57:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:57:10] [Server thread/INFO]: Using default channel type
+[13:57:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:57:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:57:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:57:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:57:10] [Server thread/INFO]: Preparing level "world"
+[13:57:10] [Server thread/INFO]: Loaded 488 advancements
+[13:57:10] [Server thread/INFO]: Preparing start region for level 0
+[13:57:11] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID e1a389ef-5f59-456e-932e-6c664759aab0
+[13:57:11] [Server thread/INFO]: Preparing spawn area: 80%
+[13:57:12] [Server thread/INFO]: Done (1.369s)! For help, type "help" or "?"
+[13:57:39] [Server thread/INFO]: expsample[/192.168.0.9:3282] logged in with entity id 488 at (28.5, 60.0, 268.5)
+[13:57:39] [Server thread/INFO]: expsample joined the game
+[14:10:33] [Server thread/INFO]: expsample lost connection: Disconnected
+[14:10:33] [Server thread/INFO]: expsample left the game
+[14:10:40] [Server Shutdown Thread/INFO]: Stopping server
+[14:10:40] [Server Shutdown Thread/INFO]: Saving players
