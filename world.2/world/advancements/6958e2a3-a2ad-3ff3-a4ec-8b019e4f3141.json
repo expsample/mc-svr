@@ -332,6 +332,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2018-01-21 16:04:04 -0800",
+      "cooked_mutton": "2018-02-24 14:53:32 -0800",
       "cooked_beef": "2018-01-21 16:32:02 -0800",
       "apple": "2018-01-21 16:20:08 -0800",
       "potato": "2018-02-10 15:18:22 -0800",
