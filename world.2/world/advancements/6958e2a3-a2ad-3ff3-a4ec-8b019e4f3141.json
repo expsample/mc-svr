@@ -1284,6 +1284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2018-02-24 15:23:28 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2018-02-04 13:26:04 -0800"
@@ -1347,6 +1353,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2018-02-10 15:36:58 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2018-02-24 16:03:42 -0800"
     },
     "done": true
   },
@@ -1425,6 +1437,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2018-01-27 17:56:52 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2018-02-24 15:23:28 -0800"
     },
     "done": true
   },
@@ -1773,6 +1791,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-02-10 16:03:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2018-02-24 16:03:42 -0800"
     },
     "done": true
   },
