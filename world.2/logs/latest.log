@@ -1,33 +1,27 @@
-[17:42:39] [Server thread/INFO]: Loading properties
-[17:42:39] [Server thread/INFO]: Default game type: SURVIVAL
-[17:42:39] [Server thread/INFO]: Generating keypair
-[17:42:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:42:39] [Server thread/INFO]: Using default channel type
-[17:42:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:42:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:42:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:42:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:42:40] [Server thread/INFO]: Preparing level "world"
-[17:42:40] [Server thread/INFO]: Loaded 488 advancements
-[17:42:40] [Server thread/INFO]: Preparing start region for level 0
-[17:42:40] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID e1a389ef-5f59-456e-932e-6c664759aab0
-[17:42:41] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 4963593f-d930-4bbf-b1cd-5679a7f58f19
-[17:42:41] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID a893aae4-95f8-4af0-9b56-09f104624d66
-[17:42:41] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID f7ed94a1-7f54-4422-b925-6582ba80c5b0
-[17:42:41] [Server thread/INFO]: Done (1.180s)! For help, type "help" or "?"
-[17:42:50] [Server thread/INFO]: expsample2[/192.168.0.7:49346] logged in with entity id 461 at (30.091201111807173, 60.0, 269.44215316002794)
-[17:42:50] [Server thread/INFO]: expsample2 joined the game
-[17:43:10] [Server thread/INFO]: expsample[/192.168.0.9:1868] logged in with entity id 468 at (30.28966150067178, 60.0, 268.9873286127511)
-[17:43:10] [Server thread/INFO]: expsample joined the game
-[17:54:16] [Server thread/INFO]: expsample was shot by Skeleton
-[17:54:29] [Server thread/INFO]: expsample2 lost connection: Disconnected
-[17:54:29] [Server thread/INFO]: expsample2 left the game
-[17:54:50] [Server thread/INFO]: expsample2[/192.168.0.7:49374] logged in with entity id 26277 at (-28.30000001192093, 18.0, 250.29892201682242)
-[17:54:50] [Server thread/INFO]: expsample2 joined the game
-[18:10:43] [Server thread/INFO]: expsample2 was blown up by Creeper
-[18:11:09] [Server thread/INFO]: expsample was slain by Zombie
-[18:11:28] [Server thread/INFO]: expsample lost connection: Disconnected
-[18:11:28] [Server thread/INFO]: expsample left the game
-[18:11:29] [Server thread/INFO]: expsample2 lost connection: Disconnected
-[18:11:29] [Server thread/INFO]: expsample2 left the game
-[18:11:31] [Server Shutdown Thread/INFO]: Stopping server
+[18:12:00] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[18:12:00] [Server thread/INFO]: Loading properties
+[18:12:00] [Server thread/INFO]: Default game type: SURVIVAL
+[18:12:00] [Server thread/INFO]: Generating keypair
+[18:12:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:12:00] [Server thread/INFO]: Using default channel type
+[18:12:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:12:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:12:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:12:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:12:00] [Server thread/INFO]: Preparing level "world"
+[18:12:00] [Server thread/INFO]: Loaded 488 advancements
+[18:12:00] [Server thread/INFO]: Preparing start region for level 0
+[18:12:01] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID e1a389ef-5f59-456e-932e-6c664759aab0
+[18:12:01] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 4963593f-d930-4bbf-b1cd-5679a7f58f19
+[18:12:01] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID a893aae4-95f8-4af0-9b56-09f104624d66
+[18:12:01] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID f7ed94a1-7f54-4422-b925-6582ba80c5b0
+[18:12:01] [Server thread/INFO]: Preparing spawn area: 96%
+[18:12:01] [Server thread/INFO]: Done (1.273s)! For help, type "help" or "?"
+[18:12:01] [Server thread/INFO]: expsample2[/192.168.0.7:49419] logged in with entity id 526 at (38.44225019670819, 64.0, 258.96013478166765)
+[18:12:01] [Server thread/INFO]: expsample2 joined the game
+[18:12:02] [Server thread/INFO]: expsample[/192.168.0.9:2755] logged in with entity id 527 at (37.96008391323487, 64.0, 260.96415875959804)
+[18:12:02] [Server thread/INFO]: expsample joined the game
+[18:37:28] [Server thread/INFO]: expsample lost connection: Disconnected
+[18:37:28] [Server thread/INFO]: expsample left the game
+[18:37:33] [Server Shutdown Thread/INFO]: Stopping server
+[18:37:33] [Server Shutdown Thread/INFO]: Saving players
