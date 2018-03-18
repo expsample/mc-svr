@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2018-03-17 17:43:50 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2018-03-03 18:38:06 -0800"
@@ -239,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2018-03-17 17:48:21 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-03-03 18:40:01 -0800"
@@ -271,7 +283,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "potato": "2018-03-03 18:38:56 -0800"
+      "apple": "2018-03-17 17:42:44 -0700",
+      "potato": "2018-03-03 18:38:56 -0800",
+      "bread": "2018-03-17 17:42:27 -0700"
     },
     "done": false
   },
