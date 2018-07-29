@@ -1,0 +1,2 @@
+c:\users\boy\AppData\Roaming\.minecraft\launcher_profiles.json
+/Users/junyoung/Library/Application Support/minecraft/launcher_profiles.json
