@@ -1,116 +1,117 @@
-[12:55:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:55:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:55:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:55:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:55:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:55:50] [main/INFO]: Loaded 0 recipes
-[12:55:50] [main/INFO]: Loaded 0 advancements
-[12:55:50] [Server thread/INFO]: Starting minecraft server version 1.13.1
-[12:55:50] [Server thread/INFO]: Loading properties
-[12:55:50] [Server thread/INFO]: Default game type: SURVIVAL
-[12:55:50] [Server thread/INFO]: Generating keypair
-[12:55:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:55:50] [Server thread/INFO]: Using default channel type
-[12:55:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:55:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:55:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:55:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:55:50] [Server thread/INFO]: Preparing level "world"
-[12:55:50] [Server thread/INFO]: Reloading ResourceManager: Default
-[12:55:51] [Server thread/INFO]: Loaded 524 recipes
-[12:55:52] [Server thread/INFO]: Loaded 571 advancements
-[12:55:52] [Server thread/ERROR]: Error loading saved data: villages
+[22:26:19] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:26:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:26:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:26:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:26:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:26:20] [main/INFO]: Loaded 0 recipes
+[22:26:20] [main/INFO]: Loaded 0 advancements
+[22:26:20] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[22:26:20] [Server thread/INFO]: Loading properties
+[22:26:20] [Server thread/INFO]: Default game type: SURVIVAL
+[22:26:20] [Server thread/INFO]: Generating keypair
+[22:26:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:26:20] [Server thread/INFO]: Using epoll channel type
+[22:26:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:26:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:26:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:26:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:26:21] [Server thread/INFO]: Preparing level "world"
+[22:26:21] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:26:23] [Server thread/INFO]: Loaded 524 recipes
+[22:26:25] [Server thread/INFO]: Loaded 571 advancements
+[22:26:25] [Server thread/ERROR]: Error loading saved data: villages
 java.io.EOFException: Unexpected end of ZLIB input stream
-	at java.util.zip.InflaterInputStream.fill(Unknown Source) ~[?:1.8.0_181]
-	at java.util.zip.InflaterInputStream.read(Unknown Source) ~[?:1.8.0_181]
-	at java.util.zip.GZIPInputStream.read(Unknown Source) ~[?:1.8.0_181]
-	at java.io.BufferedInputStream.fill(Unknown Source) ~[?:1.8.0_181]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_181]
-	at java.io.DataInputStream.readByte(Unknown Source) ~[?:1.8.0_181]
-	at hi.a(SourceFile:108) ~[minecraft_server.1.13.1.jar:?]
-	at hi.a(SourceFile:84) ~[minecraft_server.1.13.1.jar:?]
-	at hi.a(SourceFile:27) ~[minecraft_server.1.13.1.jar:?]
-	at cbx.a(SourceFile:117) ~[minecraft_server.1.13.1.jar:?]
-	at cbx.a(SourceFile:52) [minecraft_server.1.13.1.jar:?]
-	at ccj.a(SourceFile:31) [minecraft_server.1.13.1.jar:?]
-	at aye.a(SourceFile:20) [minecraft_server.1.13.1.jar:?]
-	at td.i_(SourceFile:141) [minecraft_server.1.13.1.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:352) [minecraft_server.1.13.1.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:341) [minecraft_server.1.13.1.jar:?]
-	at so.d(SourceFile:251) [minecraft_server.1.13.1.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:566) [minecraft_server.1.13.1.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
-[12:55:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:55:52] [Server thread/INFO]: Preparing spawn area: 4%
-[12:55:52] [Server thread/INFO]: Preparing spawn area: 8%
-[12:55:53] [Server thread/INFO]: Preparing spawn area: 12%
-[12:55:53] [Server thread/INFO]: Preparing spawn area: 16%
-[12:55:53] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID e1a389ef-5f59-456e-932e-6c664759aab0
-[12:55:53] [Server thread/INFO]: Preparing spawn area: 20%
-[12:55:53] [Server thread/INFO]: Preparing spawn area: 24%
-[12:55:53] [Server thread/INFO]: Preparing spawn area: 28%
-[12:55:53] [Server thread/INFO]: Preparing spawn area: 32%
-[12:55:53] [Server thread/WARN]: Keeping entity minecraft:bat that already exists with UUID 4e9a3641-e949-441f-98ae-103fa8b1a9a8
-[12:55:53] [Server thread/INFO]: Preparing spawn area: 36%
-[12:55:53] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 3ce1c4e3-5489-4cd3-ab6c-fa65f5afd520
-[12:55:53] [Server thread/INFO]: Preparing spawn area: 40%
-[12:55:53] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID c4dd88e4-b395-412f-abc8-6815306b8f05
-[12:55:53] [Server thread/WARN]: Keeping entity minecraft:creeper that already exists with UUID e3d11c31-4fe3-4e2e-aeb6-d7b10a527a3c
-[12:55:53] [Server thread/INFO]: Preparing spawn area: 44%
-[12:55:53] [Server thread/INFO]: Preparing spawn area: 48%
-[12:55:53] [Server thread/INFO]: Preparing spawn area: 52%
-[12:55:53] [Server thread/INFO]: Preparing spawn area: 56%
-[12:55:53] [Server thread/INFO]: Preparing spawn area: 60%
-[12:55:53] [Server thread/INFO]: Preparing spawn area: 64%
-[12:55:53] [Server thread/WARN]: Keeping entity minecraft:bat that already exists with UUID c64754f3-21e3-4f22-85fb-4640adbb06bd
-[12:55:53] [Server thread/INFO]: Preparing spawn area: 68%
-[12:55:53] [Server thread/INFO]: Preparing spawn area: 72%
-[12:55:53] [Server thread/INFO]: Preparing spawn area: 76%
-[12:55:53] [Server thread/INFO]: Preparing spawn area: 80%
-[12:55:53] [Server thread/INFO]: Preparing spawn area: 84%
-[12:55:54] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
-[12:55:54] [Server thread/INFO]: Preparing spawn area: 88%
-[12:55:54] [Server thread/INFO]: Preparing spawn area: 92%
-[12:55:54] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID cb1d4921-a00e-44ad-a621-0d04e39fe30b
-[12:55:54] [Server thread/INFO]: Preparing spawn area: 96%
-[12:55:54] [Server thread/INFO]: Preparing spawn area: 100%
-[12:55:54] [Server thread/INFO]: Time elapsed: 1554 ms
-[12:55:54] [Server thread/INFO]: Done (3.195s)! For help, type "help"
-[12:55:56] [Server thread/INFO]: expsample[/192.168.0.9:5716] logged in with entity id 461 at (31.350077475575375, 60.0, 269.9617418825783)
-[12:55:57] [Server thread/INFO]: expsample joined the game
-[12:56:11] [Server thread/INFO]: expsample2[/192.168.0.7:51977] logged in with entity id 463 at (31.896872204293715, 60.0, 269.2178689633818)
-[12:56:11] [Server thread/INFO]: expsample2 joined the game
-[12:57:32] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
-[13:00:05] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
-[13:02:13] [Server thread/INFO]: expsample was shot by expsample2
-[13:02:19] [Server thread/WARN]: expsample moved too quickly! -20.80000001192093,12.099998474121094,-7.026963145399748
-[13:06:59] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
-[13:07:19] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 5685b616-e111-4ee8-8f65-1bc0d6b6bc4a
-[13:07:59] [Server thread/INFO]: expsample burned to death
-[13:08:05] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
-[13:08:52] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID cb1d4921-a00e-44ad-a621-0d04e39fe30b
-[13:12:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
-[13:13:20] [Server thread/INFO]: expsample2 has made the advancement [Ice Bucket Challenge]
-[13:15:14] [Server thread/INFO]: expsample has made the advancement [Ice Bucket Challenge]
-[13:16:58] [Server thread/INFO]: expsample lost connection: Disconnected
-[13:16:58] [Server thread/INFO]: expsample left the game
-[13:17:25] [Server thread/INFO]: expsample[/192.168.0.9:6246] logged in with entity id 28198 at (-11.925115628628506, 12.0, 415.39229835332765)
-[13:17:25] [Server thread/INFO]: expsample joined the game
-[13:19:01] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
-[13:23:10] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
-[13:23:25] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
-[13:26:19] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
-[13:28:42] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
-[13:29:17] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID cb1d4921-a00e-44ad-a621-0d04e39fe30b
-[13:29:59] [Server thread/INFO]: expsample2 has made the advancement [We Need to Go Deeper]
-[13:29:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5044ms or 100 ticks behind
-[13:30:03] [Server thread/INFO]: expsample has made the advancement [We Need to Go Deeper]
-[13:30:51] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
-[13:31:54] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
-[13:37:52] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
-[13:39:29] [Server thread/INFO]: expsample2 has completed the challenge [Return to Sender]
-[13:43:02] [Server thread/INFO]: expsample lost connection: Disconnected
-[13:43:02] [Server thread/INFO]: expsample left the game
-[13:43:07] [Server thread/INFO]: expsample2 lost connection: Disconnected
-[13:43:07] [Server thread/INFO]: expsample2 left the game
-[13:43:28] [Server Shutdown Thread/INFO]: Stopping server
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240) ~[?:1.8.0_181]
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158) ~[?:1.8.0_181]
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246) ~[?:1.8.0_181]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:265) ~[?:1.8.0_181]
+	at java.io.DataInputStream.readByte(DataInputStream.java:265) ~[?:1.8.0_181]
+	at hi.a(SourceFile:108) ~[minecraft_server.1.13.2.jar:?]
+	at hi.a(SourceFile:84) ~[minecraft_server.1.13.2.jar:?]
+	at hi.a(SourceFile:27) ~[minecraft_server.1.13.2.jar:?]
+	at cby.a(SourceFile:117) ~[minecraft_server.1.13.2.jar:?]
+	at cby.a(SourceFile:52) [minecraft_server.1.13.2.jar:?]
+	at cck.a(SourceFile:31) [minecraft_server.1.13.2.jar:?]
+	at ayf.a(SourceFile:20) [minecraft_server.1.13.2.jar:?]
+	at td.i_(SourceFile:141) [minecraft_server.1.13.2.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:352) [minecraft_server.1.13.2.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:341) [minecraft_server.1.13.2.jar:?]
+	at so.d(SourceFile:251) [minecraft_server.1.13.2.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:566) [minecraft_server.1.13.2.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_181]
+[22:26:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 4%
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 8%
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 12%
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 16%
+[22:26:26] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID e1a389ef-5f59-456e-932e-6c664759aab0
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 20%
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 24%
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 28%
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 32%
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 36%
+[22:26:26] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 3ce1c4e3-5489-4cd3-ab6c-fa65f5afd520
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 40%
+[22:26:26] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID c4dd88e4-b395-412f-abc8-6815306b8f05
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 44%
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 48%
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 52%
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 56%
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 60%
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 64%
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 68%
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 72%
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 76%
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 80%
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 84%
+[22:26:26] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 88%
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 92%
+[22:26:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID cb1d4921-a00e-44ad-a621-0d04e39fe30b
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 96%
+[22:26:27] [Server thread/INFO]: Preparing spawn area: 100%
+[22:26:27] [Server thread/INFO]: Time elapsed: 1298 ms
+[22:26:27] [Server thread/INFO]: Done (5.966s)! For help, type "help"
+[22:26:45] [Server thread/INFO]: expsample[/192.168.86.39:60925] logged in with entity id 428 at (3.324011008885428, 53.0, 24.699999988079075)
+[22:26:45] [Server thread/INFO]: expsample joined the game
+[22:26:53] [Server thread/INFO]: expsample lost connection: You logged in from another location
+[22:26:53] [Server thread/INFO]: expsample left the game
+[22:26:53] [Server thread/INFO]: expsample[/192.168.86.29:4206] logged in with entity id 509 at (3.324011008885428, 53.0, 24.699999988079075)
+[22:26:53] [Server thread/INFO]: expsample joined the game
+[22:27:00] [Server thread/INFO]: expsample lost connection: Disconnected
+[22:27:00] [Server thread/INFO]: expsample left the game
+[22:30:14] [Server thread/INFO]: expsample[/192.168.86.39:60959] logged in with entity id 514 at (3.324011008885428, 53.0, 24.699999988079075)
+[22:30:14] [Server thread/INFO]: expsample joined the game
+[22:30:19] [Server thread/INFO]: expsample lost connection: Disconnected
+[22:30:19] [Server thread/INFO]: expsample left the game
+[22:30:54] [Server thread/INFO]: expsample2[/192.168.86.39:61022] logged in with entity id 595 at (5.699999988079072, 53.0, 31.294966488020016)
+[22:30:54] [Server thread/INFO]: expsample2 joined the game
+[22:31:31] [Server thread/INFO]: expsample[/192.168.86.29:13911] logged in with entity id 703 at (3.324011008885428, 53.0, 24.699999988079075)
+[22:31:31] [Server thread/INFO]: expsample joined the game
+[22:41:29] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
+[22:45:54] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
+[22:48:10] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
+[22:50:08] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID cb1d4921-a00e-44ad-a621-0d04e39fe30b
+[22:54:54] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
+[22:56:11] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
+[23:01:19] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
+[23:02:23] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
+[23:03:03] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
+[23:04:48] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
+[23:05:37] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
+[23:08:27] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
+[23:10:29] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
+[23:11:38] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
+[23:12:58] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
+[23:14:14] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
+[23:14:58] [Server thread/INFO]: expsample lost connection: Disconnected
+[23:14:58] [Server thread/INFO]: expsample left the game
+[23:15:14] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cf3661af-cf7f-4514-987b-96b12e82f085
+[23:16:24] [Server thread/INFO]: expsample2 lost connection: Disconnected
+[23:16:24] [Server thread/INFO]: expsample2 left the game
+[23:16:26] [Server Shutdown Thread/INFO]: Stopping server
+[23:16:26] [Server Shutdown Thread/INFO]: Saving players
+[23:16:26] [Server Shutdown Thread/INFO]: Saving worlds
+[23:16:26] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:16:26] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
