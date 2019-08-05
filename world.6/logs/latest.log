@@ -1,53 +1,51 @@
-[12:00:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:00:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:00:48] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:00:48] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:00:48] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[12:00:48] [Server thread/INFO]: Loading properties
-[12:00:48] [Server thread/INFO]: Default game type: SURVIVAL
-[12:00:48] [Server thread/INFO]: Generating keypair
-[12:00:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:00:48] [Server thread/INFO]: Using epoll channel type
-[12:00:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:00:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:00:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:00:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:00:48] [Server thread/INFO]: Preparing level "world"
-[12:00:48] [Server thread/INFO]: Reloading ResourceManager: Default
-[12:00:48] [Server thread/INFO]: Loaded 6 recipes
-[12:00:49] [Server thread/INFO]: Loaded 811 advancements
-[12:00:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:00:49] [Server thread/INFO]: Preparing spawn area: 0%
-[12:00:49] [Server thread/INFO]: Preparing spawn area: 0%
-[12:00:50] [Server thread/INFO]: Time elapsed: 770 ms
-[12:00:50] [Server thread/INFO]: Done (1.715s)! For help, type "help"
-[12:00:57] [Server thread/INFO]: expsample2[/192.168.86.53:13685] logged in with entity id 246 at (-187.80656482269697, 64.0, -259.68105485176164)
-[12:00:57] [Server thread/INFO]: expsample2 joined the game
-[12:01:07] [Server thread/INFO]: expsample[/192.168.86.43:50983] logged in with entity id 260 at (-187.90638009244597, 64.0, -260.2834583833795)
-[12:01:07] [Server thread/INFO]: expsample joined the game
-[12:01:07] [Server thread/INFO]: expsample has made the advancement [Suit Up]
-[12:01:07] [Server thread/INFO]: expsample has made the advancement [Isn't It Iron Pick]
-[12:21:58] [Server thread/INFO]: expsample has made the advancement [Take Aim]
-[12:30:05] [Server thread/INFO]: <expsample> mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-[12:41:38] [Server thread/INFO]: expsample2 has made the advancement [Isn't It Iron Pick]
-[12:45:36] [Server thread/INFO]: <expsample> ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-[12:45:54] [Server thread/INFO]: <expsample> there is
-[12:55:51] [Server thread/WARN]: Boat (vehicle of expsample) moved too quickly! 8.94417914774067,7.299689031015077E-7,-4.779660742054887
-[12:55:51] [Server thread/WARN]: Boat (vehicle of expsample) moved too quickly! 9.295388910939153,7.299689031015077E-7,-4.967342975344039
-[12:55:51] [Server thread/WARN]: Boat (vehicle of expsample) moved too quickly! 9.646756348758231,7.299689031015077E-7,-5.155109468036045
-[13:06:51] [Server thread/INFO]: expsample2 lost connection: Disconnected
-[13:06:51] [Server thread/INFO]: expsample2 left the game
-[13:06:55] [Server thread/INFO]: expsample lost connection: Disconnected
-[13:06:55] [Server thread/INFO]: expsample left the game
-[13:07:04] [Server thread/INFO]: Stopping server
-[13:07:04] [Server thread/INFO]: Saving players
-[13:07:04] [Server thread/INFO]: Saving worlds
-[13:07:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[13:07:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:07:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[13:07:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:07:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[13:07:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:07:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:07:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:07:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:51:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:51:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:51:37] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:51:37] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:51:37] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[12:51:37] [Server thread/INFO]: Loading properties
+[12:51:37] [Server thread/INFO]: Default game type: SURVIVAL
+[12:51:37] [Server thread/INFO]: Generating keypair
+[12:51:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:51:37] [Server thread/INFO]: Using epoll channel type
+[12:51:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:51:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:51:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:51:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:51:38] [Server thread/INFO]: Preparing level "world"
+[12:51:38] [Server thread/INFO]: Reloading ResourceManager: Default
+[12:51:38] [Server thread/INFO]: Loaded 6 recipes
+[12:51:39] [Server thread/INFO]: Loaded 811 advancements
+[12:51:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:51:39] [Server thread/INFO]: Preparing spawn area: 0%
+[12:51:39] [Server thread/INFO]: Preparing spawn area: 0%
+[12:51:40] [Server thread/INFO]: Time elapsed: 1008 ms
+[12:51:40] [Server thread/INFO]: Done (2.287s)! For help, type "help"
+[12:51:44] [Server thread/INFO]: expsample[/192.168.86.43:51457] logged in with entity id 268 at (-180.55387249747216, 64.0, -260.08076068210096)
+[12:51:44] [Server thread/INFO]: expsample joined the game
+[12:52:05] [Server thread/INFO]: expsample lost connection: You logged in from another location
+[12:52:05] [Server thread/INFO]: expsample left the game
+[12:52:05] [Server thread/INFO]: expsample[/192.168.86.53:8743] logged in with entity id 286 at (-187.105530256395, 64.0, -261.9352156894718)
+[12:52:05] [Server thread/INFO]: expsample joined the game
+[12:52:10] [Server thread/INFO]: expsample lost connection: Disconnected
+[12:52:10] [Server thread/INFO]: expsample left the game
+[12:52:13] [Server thread/INFO]: expsample[/192.168.86.43:51459] logged in with entity id 289 at (-187.105530256395, 64.0, -261.9352156894718)
+[12:52:13] [Server thread/INFO]: expsample joined the game
+[12:53:26] [Server thread/INFO]: expsample lost connection: You logged in from another location
+[12:53:26] [Server thread/INFO]: expsample left the game
+[12:53:26] [Server thread/INFO]: expsample[/192.168.86.53:8825] logged in with entity id 449 at (-196.71598763598453, 63.0, -261.0441524181408)
+[12:53:26] [Server thread/INFO]: expsample joined the game
+[12:53:30] [Server thread/INFO]: expsample lost connection: You logged in from another location
+[12:53:30] [Server thread/INFO]: expsample left the game
+[12:53:31] [Server thread/INFO]: expsample[/192.168.86.43:51485] logged in with entity id 460 at (-196.71598763598453, 63.0, -261.0441524181408)
+[12:53:31] [Server thread/INFO]: expsample joined the game
+[12:53:55] [Server thread/INFO]: expsample2[/192.168.86.53:8906] logged in with entity id 505 at (-183.06009064129353, 64.0, -261.05043122112045)
+[12:53:55] [Server thread/INFO]: expsample2 joined the game
+[13:12:33] [Server thread/INFO]: expsample has made the advancement [Diamonds!]
+[13:22:01] [Server thread/INFO]: expsample2 has made the advancement [Diamonds!]
+[13:45:19] [Server thread/INFO]: expsample has made the advancement [Voluntary Exile]
+[13:55:18] [Server thread/INFO]: <expsample> eeeeeeeeeeee
+[13:55:37] [Server thread/INFO]: expsample2 lost connection: Disconnected
+[13:55:37] [Server thread/INFO]: expsample2 left the game
+[13:56:05] [Server thread/INFO]: expsample lost connection: Disconnected
+[13:56:05] [Server thread/INFO]: expsample left the game
