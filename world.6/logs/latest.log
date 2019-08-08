@@ -1,2 +1,35 @@
-[00:25:48] [Server thread/INFO]: expsample2 lost connection: Disconnected
-[00:25:48] [Server thread/INFO]: expsample2 left the game
+[18:25:39] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:25:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:25:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:25:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:25:39] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:25:39] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[18:25:39] [Server thread/INFO]: Loading properties
+[18:25:39] [Server thread/INFO]: Default game type: SURVIVAL
+[18:25:39] [Server thread/INFO]: Generating keypair
+[18:25:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:25:39] [Server thread/INFO]: Using epoll channel type
+[18:25:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:25:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:25:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:25:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:25:39] [Server thread/INFO]: Preparing level "world"
+[18:25:39] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:25:40] [Server thread/INFO]: Loaded 6 recipes
+[18:25:40] [Server thread/INFO]: Loaded 811 advancements
+[18:25:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:25:41] [Server thread/INFO]: Preparing spawn area: 0%
+[18:25:41] [Server thread/INFO]: Preparing spawn area: 83%
+[18:25:41] [Server thread/INFO]: Time elapsed: 600 ms
+[18:25:41] [Server thread/INFO]: Done (2.279s)! For help, type "help"
+[18:25:42] [Server thread/INFO]: expsample[/192.168.86.43:54120] logged in with entity id 224 at (-179.87304008302488, 64.0, -260.54363881693786)
+[18:25:42] [Server thread/INFO]: expsample joined the game
+[18:25:46] [Server thread/INFO]: expsample2[/192.168.86.53:2846] logged in with entity id 231 at (-178.78688750305125, 64.0, -258.5284632712128)
+[18:25:46] [Server thread/INFO]: expsample2 joined the game
+[18:26:03] [Server thread/INFO]: expsample has made the advancement [Diamonds!]
+[18:28:49] [Server thread/INFO]: expsample has made the advancement [Ice Bucket Challenge]
+[18:39:02] [Server thread/INFO]: expsample has made the advancement [Enchanter]
+[18:45:36] [Server thread/INFO]: expsample2 lost connection: Disconnected
+[18:45:36] [Server thread/INFO]: expsample2 left the game
+[18:47:26] [Server thread/INFO]: expsample lost connection: Disconnected
+[18:47:26] [Server thread/INFO]: expsample left the game
