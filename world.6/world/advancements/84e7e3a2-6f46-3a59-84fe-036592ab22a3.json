@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2019-08-08 18:10:16 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2019-07-30 15:11:11 -0700"
@@ -425,6 +431,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2019-07-30 15:15:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2019-08-08 18:17:47 -0700"
     },
     "done": true
   },
@@ -2250,6 +2262,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-08-04 12:17:49 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2019-08-08 18:08:22 -0700"
     },
     "done": true
   },

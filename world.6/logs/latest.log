@@ -1,62 +1,34 @@
-[17:22:47] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:22:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:22:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:22:47] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:22:47] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:22:47] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[17:22:47] [Server thread/INFO]: Loading properties
-[17:22:47] [Server thread/INFO]: Default game type: SURVIVAL
-[17:22:47] [Server thread/INFO]: Generating keypair
-[17:22:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:22:47] [Server thread/INFO]: Using epoll channel type
-[17:22:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:22:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:22:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:22:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:22:47] [Server thread/INFO]: Preparing level "world"
-[17:22:48] [Server thread/INFO]: Reloading ResourceManager: Default
-[17:22:48] [Server thread/INFO]: Loaded 6 recipes
-[17:22:48] [Server thread/INFO]: Loaded 811 advancements
-[17:22:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[17:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[17:22:49] [Server thread/INFO]: Preparing spawn area: 9%
-[17:22:50] [Server thread/INFO]: Time elapsed: 1110 ms
-[17:22:50] [Server thread/INFO]: Done (2.103s)! For help, type "help"
-[17:22:50] [Server thread/INFO]: expsample2[/192.168.86.53:4049] logged in with entity id 224 at (2.3758984848918128, 41.0, -41.36154825723467)
-[17:22:50] [Server thread/INFO]: expsample2 joined the game
-[17:22:50] [Server thread/INFO]: expsample[/192.168.86.43:50556] logged in with entity id 226 at (2.046374062027763, 42.0, -40.3048843278352)
-[17:22:50] [Server thread/INFO]: expsample joined the game
-[17:36:55] [Server thread/INFO]: expsample2 has completed the challenge [Return to Sender]
-[17:38:50] [Server thread/INFO]: expsample2 burned to death
-[17:42:54] [Server thread/INFO]: expsample burned to death
-[17:44:42] [Server thread/INFO]: expsample2 was fireballed by Ghast
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Cobblestone'/2733, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Cobblestone'/2733, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Cooked Chicken'/2734, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Cooked Chicken'/2734, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Cobblestone'/2735, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Cobblestone'/2735, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Stone Sword'/2736, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Stone Sword'/2736, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Dirt'/2737, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Dirt'/2737, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Gravel'/2738, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Gravel'/2738, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Dirt'/2739, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Dirt'/2739, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Bread'/2740, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Bread'/2740, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Dirt'/2741, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Dirt'/2741, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Dirt'/2742, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Dirt'/2742, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Netherrack'/2743, l='world', x=5.14, y=42.32, z=-31.97]
-[17:44:42] [Server thread/WARN]: Fetching packet for removed entity atx['Netherrack'/2743, l='world', x=5.14, y=42.32, z=-31.97]
-[17:50:30] [Server thread/INFO]: expsample tried to swim in lava
-[17:50:59] [Server thread/INFO]: expsample2 burned to death
-[17:57:15] [Server thread/INFO]: expsample has completed the challenge [Return to Sender]
-[18:07:36] [Server thread/INFO]: expsample2 lost connection: Disconnected
-[18:07:36] [Server thread/INFO]: expsample2 left the game
-[18:07:37] [Server thread/INFO]: expsample lost connection: Disconnected
-[18:07:37] [Server thread/INFO]: expsample left the game
+[18:08:01] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:08:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:08:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:08:01] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:08:01] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:08:01] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[18:08:01] [Server thread/INFO]: Loading properties
+[18:08:01] [Server thread/INFO]: Default game type: SURVIVAL
+[18:08:01] [Server thread/INFO]: Generating keypair
+[18:08:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:08:01] [Server thread/INFO]: Using epoll channel type
+[18:08:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:08:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:08:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:08:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:08:01] [Server thread/INFO]: Preparing level "world"
+[18:08:02] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:08:02] [Server thread/INFO]: Loaded 6 recipes
+[18:08:02] [Server thread/INFO]: Loaded 811 advancements
+[18:08:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:08:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:08:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:08:03] [Server thread/INFO]: Preparing spawn area: 77%
+[18:08:03] [Server thread/INFO]: Time elapsed: 1079 ms
+[18:08:03] [Server thread/INFO]: Done (2.047s)! For help, type "help"
+[18:08:05] [Server thread/INFO]: expsample2[/192.168.86.53:4096] logged in with entity id 275 at (-186.5086499282849, 64.0, -262.12994768811205)
+[18:08:05] [Server thread/INFO]: expsample2 joined the game
+[18:08:09] [Server thread/INFO]: expsample[/192.168.86.43:50601] logged in with entity id 284 at (-187.02648828474847, 64.0, -261.5000503313204)
+[18:08:09] [Server thread/INFO]: expsample joined the game
+[18:17:47] [Server thread/INFO]: expsample has made the advancement [Hot Stuff]
+[18:25:01] [Server thread/INFO]: expsample lost connection: Disconnected
+[18:25:01] [Server thread/INFO]: expsample left the game
+[18:25:02] [Server thread/INFO]: expsample2 lost connection: Disconnected
+[18:25:02] [Server thread/INFO]: expsample2 left the game
