@@ -467,6 +467,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-07-30 14:27:48 -0700",
+      "minecraft:ghast": "2019-08-08 17:22:05 -0700",
       "minecraft:spider": "2019-07-30 15:46:23 -0700",
       "minecraft:creeper": "2019-07-30 14:48:32 -0700",
       "minecraft:zombie": "2019-07-30 14:51:09 -0700",
@@ -1250,6 +1251,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-08-08 17:21:46 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
       "has_magenta_wool": "2019-08-04 13:04:54 -0700"
@@ -1798,6 +1805,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2019-08-04 12:01:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2019-08-08 17:21:46 -0700"
     },
     "done": true
   },
