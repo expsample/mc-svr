@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2019-08-08 17:47:03 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2019-08-02 15:30:32 -0700"
@@ -179,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2019-08-08 17:47:03 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2019-07-30 14:17:31 -0700"
@@ -221,9 +233,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2019-08-08 17:47:03 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-04 13:06:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2019-08-08 17:47:03 -0700"
     },
     "done": true
   },
@@ -278,6 +302,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2019-07-30 14:16:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2019-08-08 17:47:03 -0700"
     },
     "done": true
   },
@@ -372,6 +402,7 @@
       "cooked_beef": "2019-08-02 14:31:11 -0700",
       "cooked_cod": "2019-08-02 14:06:20 -0700",
       "bread": "2019-08-04 12:08:21 -0700",
+      "cooked_chicken": "2019-08-08 17:44:13 -0700",
       "cooked_salmon": "2019-07-30 14:46:00 -0700"
     },
     "done": false
@@ -598,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2019-08-08 17:47:03 -0700"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:chicken": "2019-08-02 15:47:15 -0700"
@@ -679,6 +716,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-07-30 14:43:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2019-08-08 17:36:55 -0700"
     },
     "done": true
   },
@@ -892,6 +935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2019-08-08 17:47:03 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2019-07-30 14:18:52 -0700"
@@ -937,6 +986,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-07-30 14:38:10 -0700",
+      "minecraft:ghast": "2019-08-08 17:36:55 -0700",
       "minecraft:spider": "2019-07-30 14:28:49 -0700",
       "minecraft:witch": "2019-08-05 23:39:41 -0700",
       "minecraft:zombie": "2019-07-30 14:41:26 -0700",
@@ -1226,6 +1276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2019-08-08 17:47:03 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2019-07-30 14:28:50 -0700"
@@ -1325,6 +1381,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2019-08-02 14:33:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2019-08-08 17:47:03 -0700"
     },
     "done": true
   },
@@ -1532,6 +1594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2019-08-08 17:47:03 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2019-07-30 14:17:31 -0700"
@@ -1682,6 +1750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2019-08-08 17:47:03 -0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2019-07-30 14:11:39 -0700",
@@ -1773,6 +1847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2019-08-08 17:47:03 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2019-08-04 13:00:00 -0700"
@@ -1800,6 +1880,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-08-06 00:25:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2019-08-08 17:47:03 -0700"
     },
     "done": true
   },
@@ -1890,6 +1976,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2019-07-30 14:43:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2019-08-08 17:47:03 -0700"
     },
     "done": true
   },
