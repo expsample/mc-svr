@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2020-01-01 09:39:24 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-12-30 10:54:33 -0800"
@@ -660,6 +666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2020-01-01 09:39:24 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-12-31 14:26:14 -0800"
@@ -700,7 +712,8 @@
     "criteria": {
       "minecraft:skeleton": "2019-12-30 10:31:16 -0800",
       "minecraft:spider": "2019-12-31 15:11:40 -0800",
-      "minecraft:zombie": "2019-12-30 13:05:52 -0800"
+      "minecraft:zombie": "2019-12-30 13:05:52 -0800",
+      "minecraft:drowned": "2020-01-01 09:48:01 -0800"
     },
     "done": false
   },
@@ -950,6 +963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2020-01-01 09:23:21 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-12-30 11:29:26 -0800"
@@ -1136,15 +1155,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_oak_planks": "2019-12-31 15:48:54 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2019-12-31 13:50:30 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2019-12-31 15:48:54 -0800"
     },
     "done": true
   },
@@ -1274,6 +1293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-01-01 09:51:03 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2019-12-30 11:09:05 -0800"
@@ -1373,6 +1398,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2019-12-30 10:27:31 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2020-01-01 09:43:11 -0800"
     },
     "done": true
   },
