@@ -1132,8 +1132,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2020-01-01 15:49:59 -0800",
       "minecraft:mountains": "2020-01-01 16:47:12 -0800",
+      "minecraft:forest": "2020-01-01 15:49:59 -0800",
       "minecraft:river": "2020-01-01 16:20:47 -0800",
       "minecraft:plains": "2020-01-01 15:41:19 -0800"
     },
@@ -1349,5 +1349,5 @@
     },
     "done": true
   },
-  "DataVersion": 2227
+  "DataVersion": 2230
 }
