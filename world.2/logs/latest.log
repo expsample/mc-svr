@@ -1,34 +1,24 @@
-[14:53:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:53:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:53:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:53:39] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:53:39] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[14:53:39] [Server thread/INFO]: Loading properties
-[14:53:39] [Server thread/INFO]: Default game type: SURVIVAL
-[14:53:39] [Server thread/INFO]: Generating keypair
-[14:53:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:53:39] [Server thread/INFO]: Using epoll channel type
-[14:53:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:53:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:53:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:53:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:53:39] [Server thread/INFO]: Preparing level "world"
-[14:53:39] [Server thread/INFO]: Reloading ResourceManager: Default
-[14:53:39] [Server thread/INFO]: Loaded 6 recipes
-[14:53:40] [Server thread/INFO]: Loaded 825 advancements
-[14:53:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:53:41] [Server thread/INFO]: Preparing spawn area: 0%
-[14:53:41] [Server thread/INFO]: Preparing spawn area: 0%
-[14:53:41] [Server thread/INFO]: Preparing spawn area: 0%
-[14:53:42] [Server thread/INFO]: Preparing spawn area: 0%
-[14:53:42] [Server thread/INFO]: Time elapsed: 1661 ms
-[14:53:42] [Server thread/INFO]: Done (2.796s)! For help, type "help"
-[14:53:42] [Server thread/INFO]: expsample2[/192.168.86.43:52204] logged in with entity id 368 at (18.530766153221265, 64.0, 303.67265908493056)
-[14:53:42] [Server thread/INFO]: expsample2 joined the game
-[14:58:12] [Server thread/INFO]: <expsample2> aaa
-[15:09:03] [Server thread/INFO]: <expsample2> eddd
-[15:11:05] [Server thread/WARN]: Keeping entity minecraft:rabbit that already exists with UUID 5685b616-e111-4ee8-8f65-1bc0d6b6bc4a
-[15:14:04] [Server thread/WARN]: expsample2 moved wrongly!
-[15:21:39] [Server thread/INFO]: <expsample2> jjj
-[15:30:29] [Server thread/INFO]: expsample2 lost connection: Disconnected
-[15:30:29] [Server thread/INFO]: expsample2 left the game
+[18:10:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:10:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:10:48] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:10:48] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:10:48] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[18:10:48] [Server thread/INFO]: Loading properties
+[18:10:48] [Server thread/INFO]: Default game type: SURVIVAL
+[18:10:48] [Server thread/INFO]: Generating keypair
+[18:10:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:10:49] [Server thread/INFO]: Using epoll channel type
+[18:10:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:10:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:10:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:10:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:10:49] [Server thread/INFO]: Preparing level "world"
+[18:10:49] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:10:49] [Server thread/INFO]: Loaded 6 recipes
+[18:10:50] [Server thread/INFO]: Loaded 825 advancements
+[18:10:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:10:51] [Server thread/INFO]: Preparing spawn area: 0%
+[18:10:51] [Server thread/INFO]: Preparing spawn area: 0%
+[18:10:51] [Server thread/INFO]: Preparing spawn area: 0%
+[18:10:51] [Server thread/INFO]: Time elapsed: 1250 ms
+[18:10:51] [Server thread/INFO]: Done (2.358s)! For help, type "help"

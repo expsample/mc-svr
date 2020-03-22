@@ -1,56 +1,39 @@
-[09:16:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:16:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:16:38] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:16:38] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:16:38] [Server thread/INFO]: Starting minecraft server version 1.15.1
-[09:16:38] [Server thread/INFO]: Loading properties
-[09:16:38] [Server thread/INFO]: Default game type: SURVIVAL
-[09:16:38] [Server thread/INFO]: Generating keypair
-[09:16:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:16:38] [Server thread/INFO]: Using epoll channel type
-[09:16:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09:16:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[09:16:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09:16:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[09:16:39] [Server thread/INFO]: Preparing level "world"
-[09:16:39] [Server thread/INFO]: Reloading ResourceManager: Default
-[09:16:39] [Server thread/INFO]: Loaded 6 recipes
-[09:16:39] [Server thread/INFO]: Loaded 825 advancements
-[09:16:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:16:41] [Server thread/INFO]: Preparing spawn area: 0%
-[09:16:41] [Server thread/INFO]: Preparing spawn area: 0%
-[09:16:41] [Server thread/INFO]: Preparing spawn area: 0%
-[09:16:41] [Server thread/INFO]: Time elapsed: 1149 ms
-[09:16:41] [Server thread/INFO]: Done (2.272s)! For help, type "help"
-[09:17:02] [Server thread/INFO]: expsample_suha[/192.168.86.43:53203] logged in with entity id 155 at (-85.3596774609051, 89.1875, 243.30000001192093)
-[09:17:02] [Server thread/INFO]: expsample_suha joined the game
-[09:17:13] [Server thread/INFO]: expsample_suha lost connection: Disconnected
-[09:17:13] [Server thread/INFO]: expsample_suha left the game
-[09:17:19] [Server thread/INFO]: expsample_suha[/192.168.86.43:53205] logged in with entity id 175 at (-85.3596774609051, 89.1875, 243.30000001192093)
-[09:17:19] [Server thread/INFO]: expsample_suha joined the game
-[09:18:11] [Server thread/INFO]: palang[/192.168.86.53:6781] logged in with entity id 373 at (-86.51249998807907, 89.0, 241.23750001192093)
-[09:18:11] [Server thread/INFO]: palang joined the game
-[09:19:38] [Server thread/INFO]: junyoung[/192.168.86.66:34236] logged in with entity id 513 at (-85.29121140188232, 90.0, 242.39747397566833)
-[09:19:38] [Server thread/INFO]: junyoung joined the game
-[09:21:39] [Server thread/INFO]: expsample_suha has made the advancement [Fishy Business]
-[09:21:46] [Server thread/WARN]: expsample_suha moved wrongly!
-[09:29:42] [Server thread/INFO]: expsample_suha fell from a high place
-[09:29:43] [Server thread/WARN]: expsample_suha moved too quickly! -1.707405933103928,25.000000200000002,7.008516720708627
-[09:35:11] [Server thread/INFO]: expsample_suha has made the advancement [The Parrots and the Bats]
-[09:44:46] [Server thread/INFO]: palang fell from a high place
-[09:44:53] [Server thread/WARN]: palang moved too quickly! -0.8257386445511941,25.000000200000002,-4.3035692818100415
-[09:48:04] [Server thread/INFO]: junyoung was slain by Zombie
-[10:05:06] [Server thread/INFO]: palang has made the advancement [A Seedy Place]
-[10:19:35] [Server thread/INFO]: palang was slain by Zombie
-[10:21:53] [Server thread/INFO]: junyoung was slain by Zombie
-[10:24:30] [Server thread/INFO]: palang has made the advancement [Take Aim]
-[10:25:03] [Server thread/INFO]: junyoung lost connection: Disconnected
-[10:25:03] [Server thread/INFO]: junyoung left the game
-[10:25:17] [Server thread/INFO]: palang lost connection: Disconnected
-[10:25:17] [Server thread/INFO]: palang left the game
-[10:25:17] [Server thread/INFO]: expsample_suha lost connection: Disconnected
-[10:25:17] [Server thread/INFO]: expsample_suha left the game
-[10:25:32] [Server thread/INFO]: Stopping server
-[10:25:32] [Server thread/INFO]: Saving players
-[10:25:32] [Server thread/INFO]: Saving worlds
-[10:25:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[15:42:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:42:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:42:30] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:42:30] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:42:30] [Server thread/INFO]: Starting minecraft server version 1.15.1
+[15:42:30] [Server thread/INFO]: Loading properties
+[15:42:30] [Server thread/INFO]: Default game type: SURVIVAL
+[15:42:30] [Server thread/INFO]: Generating keypair
+[15:42:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:42:30] [Server thread/INFO]: Using epoll channel type
+[15:42:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:42:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:42:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:42:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:42:30] [Server thread/INFO]: Preparing level "world"
+[15:42:30] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:42:31] [Server thread/INFO]: Loaded 6 recipes
+[15:42:31] [Server thread/INFO]: Loaded 825 advancements
+[15:42:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:42:33] [Server thread/INFO]: Preparing spawn area: 0%
+[15:42:33] [Server thread/INFO]: Preparing spawn area: 0%
+[15:42:33] [Server thread/INFO]: Preparing spawn area: 0%
+[15:42:33] [Server thread/INFO]: Preparing spawn area: 43%
+[15:42:33] [Server thread/INFO]: Time elapsed: 1591 ms
+[15:42:33] [Server thread/INFO]: Done (2.760s)! For help, type "help"
+[15:44:11] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_222]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_222]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_222]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_222]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_222]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_222]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_222]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_222]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_222]
+	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_222]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_222]
+	at wd$2.run(SourceFile:109) [minecraft_server.1.15.1.jar:?]

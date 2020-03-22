@@ -1,0 +1,25 @@
+{
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2020-03-21 18:15:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2020-03-21 18:15:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-03-21 18:07:52 -0700",
+      "minecraft:taiga": "2020-03-21 18:06:12 -0700",
+      "minecraft:river": "2020-03-21 18:08:02 -0700",
+      "minecraft:wooded_hills": "2020-03-21 18:08:33 -0700",
+      "minecraft:plains": "2020-03-21 18:08:59 -0700"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}
